@@ -9,3 +9,6 @@ Link to the demonstration video : https://youtu.be/BDDgoceRufo
 # Authors
 * **Simon Bernard** - [Asefy](https://github.com/Asefy)
 * **Ivan Klapka** - [Glacias](https://github.com/Glacias)
+
+# Score
+This project received a score of 19/20.
